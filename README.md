@@ -4,6 +4,8 @@
 
 > Made for ChromeOS
 
+## Instructions
+
 - Get [ARChon Custom Runtime](https://github.com/vladikoff/chromeos-apk/blob/master/archon.md)
 - Load as unpacked extension
 - Download this
