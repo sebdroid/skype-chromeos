@@ -8,7 +8,7 @@
 		"apkList": [
 			"custom-android-release-1400197.apk"
 		],
-		"enableExternalDirectory": false,
+		"enableExternalDirectory": true,
 		"formFactor": "phone",
 		"name": "Skype For Chrome",
 		"orientation": "portrait",
